@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddFilesApp", "AddFilesApp.csproj", "{BED084E8-5B75-4EDF-BDB0-8B7058FAA56E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED084E8-5B75-4EDF-BDB0-8B7058FAA56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED084E8-5B75-4EDF-BDB0-8B7058FAA56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED084E8-5B75-4EDF-BDB0-8B7058FAA56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED084E8-5B75-4EDF-BDB0-8B7058FAA56E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69BFB382-3A70-4611-A070-9047599E8A4C}
+	EndGlobalSection
+EndGlobal
